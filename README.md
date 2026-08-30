@@ -1,106 +1,86 @@
-<h1 align="center"><b>Hi , I'm Mohamed Abdelnasser </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1 align="center">Hi, I'm Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&height=20&lines=AI+Engineer;Computer+Vision+Enthusiast;Flutter+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=25&lines=AI+Engineer+%40+Printerpix;Agentic+AI+%C2%B7+LLMs+%C2%B7+RAG;LangChain+%2F+LangGraph+%2F+Python;Also+ships+a+Windows+XP+in+the+browser" alt="Typing SVG" /></a>
+</p>
+
+<p align="center">
+  I build production LLM and agentic systems — RAG pipelines, multi-agent orchestration, MCP servers — and occasionally a chess-playing robot arm just to keep things honest. Currently co-leading the AI team at <b>Printerpix</b> in Dubai, where an agentic email pipeline out-earned human-written campaigns <b>up to 5x</b> and an on-prem LLM serving stack cut our model bill <b>~95%</b>.
+</p>
+
+<p align="center">
+  <a href="https://momad-xp.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Windows_XP-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://drive.google.com/file/d/1_7KaZBU2ZULnRyx1jGuTU-ZLSxgZ5K9y/view"><img src="https://img.shields.io/badge/Resume-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
+  <a href="https://www.linkedin.com/in/mohamed-y-abdelnasser/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mohamed.y.abdelnasser@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
 
-## **About me** 🙋‍♂️
+## What I'm building
 
--   An undergraduate student majoring in Artificial Intelligence at AAST
--   A passionate AI Engineer and Computer Vision Enthusiast
--   Currently learning Flutter Development
--   I’m currently open for Internship opportunities, this is [my resume](https://drive.google.com/file/d/10K_5PvGXCHsvOZ-tm2qwrDLstNkRfLdH/view?usp=drive_link)
+- **GenAI & Agents:** RAG pipelines, multi-agent orchestration (LangChain/LangGraph/CrewAI), MCP servers, LLM-as-judge review loops, prompt-injection guardrails.
+- **Production infra:** self-hosted open-weight LLM serving (vLLM + LiteLLM), tiered model routing, per-user API keys — because not every request needs GPT-4-class horsepower.
+- **ML on the side:** pricing models (Elastic Net + Monte Carlo simulation), computer vision, and enough robotics to have once made a robot arm checkmate people at a national final.
+- **Base stack:** Python, TypeScript, SQL — B.Sc. Artificial Intelligence (GPA 3.94/4.0, ranked 2nd in class), RoboCup@Home national champion 🇪🇬 · 3rd internationally 🇳🇱.
 
-<br><br>
+<br>
 
-## **Languages and Tools** 🛠️
+## Tech stack
 
-<p align="center">
-
--   **Languages:**
-
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-
--   **Frameworks:**
-
-    <a href="https://opencv.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a href="https://pytorch.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-    <a href="https://keras.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/d8dfb916e50a93a41f3b1ed2ca7bd3dbc77030a2/keras.svg" alt="keras" width="40" height="40"/> </a>
-    <a href="https://numpy.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="40" height="40"/> </a>
-    <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-    <a href="https://matplotlib.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/> </a>
-    <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
-    <a href="https://flask.palletsprojects.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
-    <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-    <a href="https://www.ros.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/> </a>
-    <a href="https://developer.nvidia.com/cuda-zone" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/uiwjs/file-icons/14d99db13ae7ebfd83fdb295d9b81dd8e49373c6/icon/cuda.svg" alt="cuda" width="40" height="40"/> </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-
--   **Tools:**
-
-    <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://www.anaconda.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/anaconda/anaconda-original.svg" alt="anaconda" width="40" height="40"/> </a>
-    <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> </a>
-    <a href="https://jupyter.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> </a>
-
--   **Platforms:**
-
-    <a href="https://www.raspberrypi.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberry-pi" width="40" height="40"/> </a>
-    <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> </a>
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-6B4FBB?style=flat-square"/>
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
 </p>
 
 <br>
 
-## **Connect with me** 🤝
+## Featured projects
 
-<a href="https://www.linkedin.com/in/mohamed-y-abdelnasser/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/7.zsjj/?hl=en" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://wa.me/201067810849" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" /></a>
-<a href="https://www.chess.com/member/momad_55555" target="blank"><img src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/PedroPinhata/phpkXK09k.png" alt="chess.com" height="30" width="22" /></a>
-<a href="https://open.spotify.com/user/momad_55555" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| 🎵 [**Lyric Logic**](https://github.com/Momad-Y/Lyric-Logic) — [live](https://lyric-logic.streamlit.app/) | Predicts a song's artist from its lyrics — an LSTM/CNN text classifier trained on 50k+ lyrics. | TensorFlow, NLTK, Streamlit |
+| 🎓 [**EUC RAG Agent**](https://github.com/Momad-Y/EUC-RAG-Agent) — [live](https://euc-rag.streamlit.app/) | A full RAG system with 3 swappable embedding backends and 3 generation models — including a fully offline `qwen3:8b` via Ollama, no API key required. | LangChain, Chroma, Gemini |
+| 💬 [**NexChat**](https://github.com/Momad-Y/NexChat) — [live](https://nexchat.streamlit.app/) | Multimodal chatbot: document Q&A over RAG, long-context summarization, image captioning, and speech in/out — 100% free-tier, zero paid API keys to self-host. | LangChain, FAISS, Streamlit |
+| 👁️ [**OptiCompanion**](https://github.com/Momad-Y/OptiCompanion) | A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic. | Flutter, TensorFlow Lite |
+| ⭐ [**Celebrity Look-a-like CNN**](https://github.com/Momad-Y/Celebrity-look-a-like-CNN) | Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching — works on a live webcam feed. | TensorFlow/Keras, OpenCV |
+| ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots) | Two generations of chess-playing robotic arms — a 3D-printed 6-DOF arm and a Dobot Magician — that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask |
+
+*Live demos are hosted free-tier and nap after ~12h idle — first load can take ~30s to wake up. Worth the wait.*
+
+<br>
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momad-Y&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Top languages"/>
+</p>
 
 <br>
 
-## **GitHub Stats** 📈
+## Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.instagram.com/7.zsjj/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://wa.me/201067810849"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.chess.com/member/momad_55555"><img src="https://img.shields.io/badge/Chess.com-81B64C?style=flat-square&logo=chessdotcom&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/momad_55555"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white"/></a>
+</p>
 
-![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Momad-Y&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Momad-Y&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Momad-Y&theme=radical)
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Momad-Y&theme=radical)
-
-</div>
-
-## **Pinned Repositories** 📌
-
-<div align="center">
-
-| Other Projects                                                                                                                   | AI Projects                                                                                                                              |
-| -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Momad-Y&repo=Hikaru-Nakarmsen-Chess-Robot&theme=radical) | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AIBabyTeaching&repo=deep-learning-project-Momad-Y&theme=radical) |
-| ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Momad-Y&repo=OptiCompanion&theme=radical)                | ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Momad-Y&repo=NFLX-Stock-Price-Prediction&theme=radical)          |
-
-</div>
-
-<br>
+<p align="center"><i>Currently accepting: interesting problems, chess challenges, and Spotify playlist recommendations.</i></p>
