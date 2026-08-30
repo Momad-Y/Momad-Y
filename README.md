@@ -65,6 +65,16 @@ _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~3
 
 <br>
 
+## GitHub stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages"/>
+</p>
+
+<p align="center"><sub>Rendered nightly by a scheduled GitHub Action, a static file committed to this repo, not a live API call.</sub></p>
+
+<br>
+
 ## Connect
 
 <p align="center">
