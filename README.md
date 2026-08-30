@@ -35,12 +35,11 @@
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
   <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Model_Context_Protocol-6B4FBB?style=flat-square"/>
-  <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
@@ -53,14 +52,14 @@
 
 ## Featured projects
 
-| Project                                                                                                   | What it does                                                                                                                                                           | Stack                         |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| 🎵 [**Lyric Logic**](https://github.com/Momad-Y/Lyric-Logic) ([live](https://lyric-logic.streamlit.app/)) | Predicts a song's artist from its lyrics, an LSTM/CNN text classifier trained on 50k+ lyrics.                                                                          | TensorFlow, NLTK, Streamlit   |
-| 🎓 [**EUC RAG Agent**](https://github.com/Momad-Y/EUC-RAG-Agent) ([live](https://euc-rag.streamlit.app/)) | A full RAG system with 3 swappable embedding backends and 3 Gemini generation models. Also supports a fully offline `qwen3:8b` via Ollama when run locally.            | LangChain, Chroma, Gemini     |
+| Project                                                                                                   | What it does                                                                                                                                                           | Stack                            |
+| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 🎵 [**Lyric Logic**](https://github.com/Momad-Y/Lyric-Logic) ([live](https://lyric-logic.streamlit.app/)) | Predicts a song's artist from its lyrics, an LSTM/CNN text classifier trained on 50k+ lyrics.                                                                          | TensorFlow, NLTK, Streamlit      |
+| 🎓 [**EUC RAG Agent**](https://github.com/Momad-Y/EUC-RAG-Agent) ([live](https://euc-rag.streamlit.app/)) | A full RAG system with 3 swappable embedding backends and 3 Gemini generation models. Also supports a fully offline `qwen3:8b` via Ollama when run locally.            | LangChain, Chroma, Gemini        |
 | 💬 [**NexChat**](https://github.com/Momad-Y/NexChat) ([live](https://nexchat.streamlit.app/))             | Multimodal chatbot: document Q&A over RAG, long-context summarization, image captioning, and speech in/out, running on free-tier GLM and HuggingFace, zero paid keys.  | LangChain, FAISS, GLM, Streamlit |
-| 👁️ [**OptiCompanion**](https://github.com/Momad-Y/OptiCompanion)                                          | A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic.                          | Flutter, TensorFlow Lite      |
-| ⭐ [**Celebrity Look-a-like CNN**](https://github.com/Momad-Y/Celebrity-look-a-like-CNN)                  | Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching, works on a live webcam feed.                                             | TensorFlow/Keras, OpenCV      |
-| ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots)              | Two generations of chess-playing robotic arms, a 3D-printed 6-DOF arm and a Dobot Magician, that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask/Tkinter |
+| 👁️ [**OptiCompanion**](https://github.com/Momad-Y/OptiCompanion)                                          | A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic.                          | Flutter, TensorFlow Lite         |
+| ⭐ [**Celebrity Look-a-like CNN**](https://github.com/Momad-Y/Celebrity-look-a-like-CNN)                  | Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching, works on a live webcam feed.                                             | TensorFlow/Keras, OpenCV         |
+| ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots)              | Two generations of chess-playing robotic arms, a 3D-printed 6-DOF arm and a Dobot Magician, that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask/Tkinter    |
 
 _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~30s to wake up. Worth the wait._
 
