@@ -21,7 +21,7 @@
 
 - **GenAI & Agents:** RAG pipelines, multi-agent orchestration (LangChain/LangGraph/CrewAI), MCP servers, LLM-as-judge review loops, prompt-injection guardrails.
 - **Production infra:** self-hosted open-weight LLM serving (vLLM + LiteLLM), tiered model routing, per-user API keys — because not every request needs GPT-4-class horsepower.
-- **ML on the side:** pricing models (Elastic Net + Monte Carlo simulation), computer vision, and enough robotics to have once made a robot arm checkmate people at a national final.
+- **ML on the side:** pricing models (Elastic Net + Monte Carlo simulation), computer vision, and two generations of a chess-playing robot arm that reads the board with OpenCV and lets Stockfish do the thinking.
 - **Base stack:** Python, TypeScript, SQL — B.Sc. Artificial Intelligence (GPA 3.94/4.0, ranked 2nd in class), RoboCup@Home national champion 🇪🇬 · 3rd internationally 🇳🇱.
 
 <br>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Model_Context_Protocol-6B4FBB?style=flat-square"/>
   <br>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -44,9 +44,9 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square"/>
 </p>
 
 <br>
@@ -60,7 +60,7 @@
 | 💬 [**NexChat**](https://github.com/Momad-Y/NexChat) — [live](https://nexchat.streamlit.app/) | Multimodal chatbot: document Q&A over RAG, long-context summarization, image captioning, and speech in/out — 100% free-tier, zero paid API keys to self-host. | LangChain, FAISS, Streamlit |
 | 👁️ [**OptiCompanion**](https://github.com/Momad-Y/OptiCompanion) | A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic. | Flutter, TensorFlow Lite |
 | ⭐ [**Celebrity Look-a-like CNN**](https://github.com/Momad-Y/Celebrity-look-a-like-CNN) | Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching — works on a live webcam feed. | TensorFlow/Keras, OpenCV |
-| ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots) | Two generations of chess-playing robotic arms — a 3D-printed 6-DOF arm and a Dobot Magician — that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask |
+| ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots) | Two generations of chess-playing robotic arms — a 3D-printed 6-DOF arm and a Dobot Magician — that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask/Tkinter |
 
 *Live demos are hosted free-tier and nap after ~12h idle — first load can take ~30s to wake up. Worth the wait.*
 
