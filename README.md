@@ -56,21 +56,13 @@
 | Project                                                                                                   | What it does                                                                                                                                                           | Stack                         |
 | --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | 🎵 [**Lyric Logic**](https://github.com/Momad-Y/Lyric-Logic) ([live](https://lyric-logic.streamlit.app/)) | Predicts a song's artist from its lyrics, an LSTM/CNN text classifier trained on 50k+ lyrics.                                                                          | TensorFlow, NLTK, Streamlit   |
-| 🎓 [**EUC RAG Agent**](https://github.com/Momad-Y/EUC-RAG-Agent) ([live](https://euc-rag.streamlit.app/)) | A full RAG system with 3 swappable embedding backends and 3 generation models, including a fully offline `qwen3:8b` via Ollama, no API key required.                   | LangChain, Chroma, Gemini     |
-| 💬 [**NexChat**](https://github.com/Momad-Y/NexChat) ([live](https://nexchat.streamlit.app/))             | Multimodal chatbot: document Q&A over RAG, long-context summarization, image captioning, and speech in/out, 100% free-tier, zero paid API keys to self-host.           | LangChain, FAISS, Streamlit   |
+| 🎓 [**EUC RAG Agent**](https://github.com/Momad-Y/EUC-RAG-Agent) ([live](https://euc-rag.streamlit.app/)) | A full RAG system with 3 swappable embedding backends and 3 Gemini generation models. Also supports a fully offline `qwen3:8b` via Ollama when run locally.            | LangChain, Chroma, Gemini     |
+| 💬 [**NexChat**](https://github.com/Momad-Y/NexChat) ([live](https://nexchat.streamlit.app/))             | Multimodal chatbot: document Q&A over RAG, long-context summarization, image captioning, and speech in/out, running on free-tier GLM and HuggingFace, zero paid keys.  | LangChain, FAISS, GLM, Streamlit |
 | 👁️ [**OptiCompanion**](https://github.com/Momad-Y/OptiCompanion)                                          | A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic.                          | Flutter, TensorFlow Lite      |
 | ⭐ [**Celebrity Look-a-like CNN**](https://github.com/Momad-Y/Celebrity-look-a-like-CNN)                  | Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching, works on a live webcam feed.                                             | TensorFlow/Keras, OpenCV      |
 | ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots)              | Two generations of chess-playing robotic arms, a 3D-printed 6-DOF arm and a Dobot Magician, that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask/Tkinter |
 
 _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~30s to wake up. Worth the wait._
-
-<br>
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Momad-Y&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" alt="Top languages"/>
-</p>
 
 <br>
 
