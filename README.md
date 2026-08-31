@@ -112,7 +112,7 @@ _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~3
 
 <br>
 
-## GitHub stats
+## GitHub Stats
 
 <table align="center" cellspacing="24" cellpadding="0" border="0">
   <tr>
