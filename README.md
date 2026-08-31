@@ -120,7 +120,7 @@ _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~3
     <td align="center"><img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/3-stats.svg" width="340" alt="GitHub stats"/></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="340" alt="Productive time"/></td>
+    <td colspan="2" align="center"><img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/custom/commits-utc-vs-local.svg" width="704" alt="Commits by hour, UTC vs UTC+4"/></td>
   </tr>
 </table>
 
