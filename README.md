@@ -99,14 +99,80 @@
 
 ## Featured projects
 
-| Project                                                                                                   | What it does                                                                                                                                                           | Stack                            |
-| --------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 🎵 [**Lyric Logic**](https://github.com/Momad-Y/Lyric-Logic) ([live](https://lyric-logic.streamlit.app/)) | Predicts a song's artist from its lyrics, an LSTM/CNN text classifier trained on 50k+ lyrics.                                                                          | TensorFlow, NLTK, Streamlit      |
-| 🎓 [**EUC RAG Agent**](https://github.com/Momad-Y/EUC-RAG-Agent) ([live](https://euc-rag.streamlit.app/)) | A full RAG system with 3 swappable embedding backends and 3 Gemini generation models. Also supports a fully offline `qwen3:8b` via Ollama when run locally.            | LangChain, Chroma, Gemini        |
-| 💬 [**NexChat**](https://github.com/Momad-Y/NexChat) ([live](https://nexchat.streamlit.app/))             | Multimodal chatbot: document Q&A over RAG, long-context summarization, image captioning, and speech in/out, running on free-tier GLM and HuggingFace, zero paid keys.  | LangChain, FAISS, GLM, Streamlit |
-| 👁️ [**OptiCompanion**](https://github.com/Momad-Y/OptiCompanion)                                          | A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic.                          | Flutter, TensorFlow Lite         |
-| ⭐ [**Celebrity Look-a-like CNN**](https://github.com/Momad-Y/Celebrity-look-a-like-CNN)                  | Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching, works on a live webcam feed.                                             | TensorFlow/Keras, OpenCV         |
-| ♟️ [**Magnus & Hikaru Chess Robots**](https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots)              | Two generations of chess-playing robotic arms, a 3D-printed 6-DOF arm and a Dobot Magician, that see the board with computer vision and play with Stockfish/AlphaZero. | Python, OpenCV, Flask/Tkinter    |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+<a href="https://github.com/Momad-Y/Lyric-Logic"><img src="https://raw.githubusercontent.com/Momad-Y/Lyric-Logic/main/imgs/web-app-example.png" width="100%" alt="Lyric Logic screenshot"/></a>
+
+🎵 <a href="https://github.com/Momad-Y/Lyric-Logic"><b>Lyric Logic</b></a> · <a href="https://lyric-logic.streamlit.app/">live</a>
+
+<sub>Predicts a song's artist from its lyrics, an LSTM/CNN text classifier trained on 50k+ lyrics.</sub>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-3E7C59?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+
+<td width="33%" valign="top">
+<a href="https://github.com/Momad-Y/EUC-RAG-Agent"><img src="https://raw.githubusercontent.com/Momad-Y/EUC-RAG-Agent/main/imgs/webapp.png" width="100%" alt="EUC RAG Agent screenshot"/></a>
+
+🎓 <a href="https://github.com/Momad-Y/EUC-RAG-Agent"><b>EUC RAG Agent</b></a> · <a href="https://euc-rag.streamlit.app/">live</a>
+
+<sub>A full RAG system with 3 swappable embedding backends and 3 Gemini generation models. Also supports a fully offline <code>qwen3:8b</code> via Ollama when run locally.</sub>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+
+<td width="33%" valign="top">
+<a href="https://github.com/Momad-Y/NexChat"><img src="https://raw.githubusercontent.com/Momad-Y/NexChat/main/imgs/image_captioning_screenshot.png" width="100%" alt="NexChat screenshot"/></a>
+
+💬 <a href="https://github.com/Momad-Y/NexChat"><b>NexChat</b></a> · <a href="https://nexchat.streamlit.app/">live</a>
+
+<sub>Multimodal chatbot: document Q&amp;A over RAG, long-context summarization, image captioning, and speech in/out, running on free-tier GLM and HuggingFace, zero paid keys.</sub>
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="33%" valign="top">
+<a href="https://github.com/Momad-Y/OptiCompanion"><img src="https://raw.githubusercontent.com/Momad-Y/OptiCompanion/main/images/Nothing-Phone-1-Home-Page-Mockup.png" width="100%" alt="OptiCompanion screenshot"/></a>
+
+👁️ <a href="https://github.com/Momad-Y/OptiCompanion"><b>OptiCompanion</b></a>
+
+<sub>A Flutter + TFLite accessibility app: real-time object recognition and document reading for blind/low-vision users, bilingual English/Arabic.</sub>
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+</td>
+
+<td width="33%" valign="top">
+<a href="https://github.com/Momad-Y/Celebrity-look-a-like-CNN"><img src="https://raw.githubusercontent.com/Momad-Y/Celebrity-look-a-like-CNN/main/images/Real-Time%20Example.png" width="100%" alt="Celebrity Look-a-like CNN screenshot"/></a>
+
+⭐ <a href="https://github.com/Momad-Y/Celebrity-look-a-like-CNN"><b>Celebrity Look-a-like CNN</b></a>
+
+<sub>Finds your celebrity doppelgänger via VGG16 transfer learning and cosine-similarity matching, works on a live webcam feed.</sub>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+</td>
+
+<td width="33%" valign="top">
+<a href="https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots"><img src="https://raw.githubusercontent.com/Momad-Y/Magnus-Hikaru-Chess-Robots/main/media/magnus/magnus-arm-hero.png" width="100%" alt="Magnus and Hikaru chess robots"/></a>
+
+♟️ <a href="https://github.com/Momad-Y/Magnus-Hikaru-Chess-Robots"><b>Magnus &amp; Hikaru Chess Robots</b></a>
+
+<sub>Two generations of chess-playing robotic arms, a 3D-printed 6-DOF arm and a Dobot Magician, that see the board with computer vision and play with Stockfish/AlphaZero.</sub>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
 
 _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~30s to wake up. Worth the wait._
 
