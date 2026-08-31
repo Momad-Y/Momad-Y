@@ -68,10 +68,14 @@ _Live demos are hosted free-tier and nap after ~12h idle, first load can take ~3
 ## GitHub stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top languages"/>
+  <img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="270" alt="Most commit language"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/3-stats.svg" width="270" alt="GitHub stats"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Momad-Y/Momad-Y/main/profile-summary-card-output/tokyonight/4-productive-time.svg" width="270" alt="Productive time"/>
 </p>
 
-<p align="center"><sub>Rendered nightly by a scheduled GitHub Action, a static file committed to this repo, not a live API call.</sub></p>
+<p align="center"><sub>Rendered nightly by a scheduled GitHub Action, static files committed to this repo, not a live API call.</sub></p>
 
 <br>
 
