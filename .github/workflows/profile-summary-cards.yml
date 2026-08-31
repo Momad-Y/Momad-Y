@@ -23,3 +23,24 @@ jobs:
           UTC_OFFSET: 4
           AUTO_PUSH: true
           THEME: tokyonight
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install chart dependencies
+        run: pip install requests matplotlib
+
+      - name: Generate commit-hours chart (UTC vs UTC+4)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_commit_hours_chart.py
+
+      - name: Commit commit-hours chart
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/custom/commits-utc-vs-local.svg
+          git diff --cached --quiet || git commit -m "chore: update commit-hours chart"
+          git pull --rebase
+          git push
