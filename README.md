@@ -43,7 +43,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Model_Context_Protocol-6B4FBB?style=flat-square"/>
 
-<br><br>
+<br>
 
 <b>ML, NLP &amp; CV</b><br>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
@@ -55,7 +55,7 @@
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
 <img src="https://img.shields.io/badge/NLTK-3E7C59?style=flat-square"/>
 
-<br><br>
+<br>
 
 <b>Backend &amp; Data</b><br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -71,7 +71,7 @@
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white"/>
 
-<br><br>
+<br>
 
 <b>Cloud &amp; DevOps</b><br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white"/>
 
-<br><br>
+<br>
 
 <b>Robotics &amp; Embedded</b><br>
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
