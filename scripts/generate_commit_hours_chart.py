@@ -14,7 +14,7 @@ LOCAL_LABEL = "UTC+4 (Dubai)"
 TOKEN = os.environ.get("GITHUB_TOKEN", "")
 HEADERS = {"Authorization": f"Bearer {TOKEN}"} if TOKEN else {}
 API = "https://api.github.com"
-OUTPUT_PATH = "profile-summary-card-output/custom/commits-utc-vs-local.svg"
+OUTPUT_PATH = "assets/charts/commits-utc-vs-local.svg"
 
 
 def get_repos():

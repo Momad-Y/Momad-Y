@@ -40,7 +40,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output/custom/commits-utc-vs-local.svg
+          git add assets/charts/commits-utc-vs-local.svg
           git diff --cached --quiet || git commit -m "chore: update commit-hours chart"
           git pull --rebase
           git push
